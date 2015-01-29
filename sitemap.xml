@@ -1,53 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://jwcd.github.io/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/archives/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2015/01/23/air-purifier-recommend/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2014/10/10/github-pages-SEO/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2014/10/09/my-kossel800/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2014/10/09/Cura-var-cut/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2014/10/09/hexo+github/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/2014/10/09/book-recommend-Pomodoro/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/categories/hexo/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/archives/2015/01/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
-<url>
-  <loc>http://jwcd.github.io/archives/2014/10/</loc>
-  <lastmod>2015-01-25T05:28:32+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2015/01/23/air-purifier-recommend/</loc>
+    <lastmod>2015-01-29T05:20:35.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2014/10/10/github-pages-SEO/</loc>
+    <lastmod>2014-10-10T07:08:58.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2014/10/09/hexo+github/</loc>
+    <lastmod>2014-10-10T06:31:51.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2014/10/09/Cura-var-cut/</loc>
+    <lastmod>2014-10-10T04:58:00.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2014/10/09/my-kossel800/</loc>
+    <lastmod>2014-10-09T12:35:51.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2014/10/09/book-recommend-Pomodoro/</loc>
+    <lastmod>2014-10-09T10:12:48.000Z</lastmod>
+  </url>
+  
 </urlset>
